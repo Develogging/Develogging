@@ -4,9 +4,6 @@
   <a href="mailto:marcos.vinicius.da.silva.pro@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF">
   </a>
-  <a href="https://web.whatsapp.com/send?phone=5537999077044">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=007BFF">
-  </a>
 </p><br>
 
 <h2 align="center">Um pouco sobre mim...</h2>
