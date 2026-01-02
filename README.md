@@ -11,8 +11,7 @@
 - ☀️ Desenvolvedor Full Stack e Assistente de Engenharia na Apollo Energia Solar Fotovoltaica<br>
 - 💻 Cursando Engenharia da Computação<br>
 - 🎇 Fascinado por tecnologia<br>
-- 📚 Interessado em me aprofundar na área de desenvolvimento<br>
-- 🧠 Estudando redes neurais, suas aplicações em jogos e interações IA-IA-Humano<br><br>
+- 📚 Interessado em me aprofundar na área de desenvolvimento de jogos<br><br>
 
 <h2 align="center">Tecnologias</h2>
 
